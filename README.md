@@ -39,14 +39,14 @@ Este proyecto implementa la automatización de pruebas funcionales para el servi
 ```
 ##🚀¿Cómo ejecutar las pruebas?
 1. Instalar dependencias:
-  npm install
+  - npm install
 
 2. Ejecutar los tests:
-   npx playwright test
+   - npx playwright test
 
 3. Ver reporte Allure:
-  -npx allure generate allure-results --clean -o allure-report
-  -npx allure open allure-report
+   - npx allure generate allure-results --clean -o allure-report
+   - npx allure open allure-report
 
 🧪Escenarios automatizados
 | Caso                                           | Descripción                      |
@@ -56,6 +56,9 @@ Este proyecto implementa la automatización de pruebas funcionales para el servi
 | ✅ Valor máximo en campo `valorRecaudar`        | Prueba de borde superior         |
 | ✅ Caracteres especiales en `referenciaRecaudo` | Validación de caracteres especiales|
 | ✅ Guía sin campo `observaciones`               | Validación de campos opcionales  |
+
+
+
 
 
 
