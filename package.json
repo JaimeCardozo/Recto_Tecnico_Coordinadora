@@ -1,0 +1,16 @@
+{
+  "name": "recto_tecnico_coordinadora",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.1",
+    "allure-playwright": "^3.4.2",
+    "dotenv": "^17.2.3"
+  }
+}
